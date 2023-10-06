@@ -11,7 +11,7 @@ I have implemented a long list of features, among them the following:
 
 - __Target Audience__
 
-    <img src="assets\images\readme_images\">
+    <img src="assets\images\readme_images\panda.webp">
 _Example of nav bar._
 
 <br>
